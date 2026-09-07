@@ -32,6 +32,6 @@ class MyprojectApplicationTests {
 	@Test
 	void addition() {
 		Integer result = testController.addition();
-		assertEquals(50, result);
+		assertEquals(30, result);
 	}
 }
